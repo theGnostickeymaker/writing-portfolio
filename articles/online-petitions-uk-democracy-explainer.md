@@ -1,6 +1,8 @@
 # What Online Petitions Can And Cannot Do In UK Democracy
 
-Online petitions have become one of the most visible signs of political frustration in the United Kingdom. Social media feeds fill up with links urging people to “sign and share”. Platforms promise that, if a petition reaches a certain threshold, Parliament will have to “listen”.
+In March 2019, more than six million people signed a petition to revoke Article 50 and cancel Brexit. It became the most signed petition in UK parliamentary history. Parliament debated it in Westminster Hall for around ninety minutes. Nothing changed.
+
+That gap between mass participation and political outcome is the story of online petitions in the United Kingdom. Social media feeds fill up with links urging people to "sign and share". Platforms promise that, if a petition reaches a certain threshold, Parliament will have to "listen".
 
 Petitions can be useful. They can also be deeply misleading about how power actually works. This explainer sets out, in plain terms, what online petitions do well, where they fall short, and how they fit into the wider machinery of UK democracy.
 
@@ -11,7 +13,7 @@ The UK Parliament runs an official petitions system alongside several large priv
 - A member of the public drafts a proposal or demand.
 - The petition is checked against basic rules, for example no hate speech or duplicate wording.
 - If approved, it is published and people can sign it online.
-- At certain thresholds, different responses are triggered, such as a formal written response or consideration for debate.
+- At certain thresholds, different responses are triggered. On the official parliamentary site, 10,000 signatures guarantees a written government response; 100,000 triggers consideration for a Westminster Hall debate.
 
 On paper this provides a direct route from citizen to legislature. It offers a channel that feels accessible, free, and quick.
 
@@ -21,7 +23,7 @@ Petitions are not useless. They have three genuine strengths.
 
 **1. Signalling that an issue exists**
 
-A large number of signatures can send a clear message that a subject has broken out of a small activist circle and reached a wider public. For backbench MPs or select committees this can be a prompt to investigate, request briefings, or ask awkward questions.
+A large number of signatures can send a clear message that a subject has broken out of a small activist circle and reached a wider public. In 2016, a petition calling for the Meningitis B vaccine to be offered to all children, not just newborns, gathered more than 823,000 signatures. The scale of public feeling helped keep the issue on the political agenda and contributed to later expansions of the vaccination programme. For backbench MPs or select committees, numbers like these can be a prompt to investigate, request briefings, or ask awkward questions.
 
 **2. Helping people find one another**
 
@@ -39,15 +41,15 @@ However, petitions also have hard limits that are rarely made clear to the publi
 
 **1. Petitions do not create legal obligations**
 
-In most cases, petitions do not force the government to change a law or reverse a policy. At best they may lead to a debate, a statement, or a written response. Executive power remains where it was before.
+In most cases, petitions do not force the government to change a law or reverse a policy. The Article 50 revocation petition is the clearest example: six million signatures produced a Westminster Hall debate and a government response reaffirming that Brexit would proceed. At best, petitions may lead to a debate, a statement, or a written response. Executive power remains where it was before.
 
 **2. Petitions can duplicate and dilute**
 
-Because anyone can create a petition, it is common to see multiple petitions about the same issue, often with slightly different wording. Supporters are split between them, numbers look smaller than they are, and no single petition crosses the thresholds that trigger official attention.
+Because anyone can create a petition, it is common to see multiple petitions about the same issue, often with slightly different wording. In the months after the 2016 EU referendum, several competing petitions appeared calling for a second vote, each with different framing and none consolidating the full weight of public demand behind a single ask. Supporters are split between them, numbers look smaller than they are, and no single petition crosses the thresholds that trigger official attention.
 
 **3. Petitions are easy to ignore**
 
-A government under pressure can acknowledge a petition in polite terms and then proceed exactly as planned. A short debate in a quiet committee room may technically “fulfil” the promise attached to the petition platform, while changing nothing on the ground.
+A government under pressure can acknowledge a petition in polite terms and then proceed exactly as planned. In 2017, a petition opposing a full state visit for Donald Trump passed 1.8 million signatures and was debated in Parliament, but the visit went ahead in 2019. A short debate in a quiet committee room may technically "fulfil" the promise attached to the petition platform, while changing nothing on the ground.
 
 **4. Petitions can absorb anger that might otherwise organise**
 
